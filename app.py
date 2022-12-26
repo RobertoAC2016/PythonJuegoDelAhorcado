@@ -1,7 +1,5 @@
 import random, os
 
-# El juego del ahorcado en codigo Python
-
 def juego():
     print("Juego del ahorcado")
     ##Seguimos con  la BDs de palabras y despues las imagenes o en este caso las listas de caracteres ascii
